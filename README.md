@@ -1,16 +1,19 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**OneLegend260/OneLegend260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **OneLegend260**, a performance optimizer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Reading the source is the best documentation
+- 🐛 Bug hunter by night
+- 🛠️ Build small, ship often
+- 🤔 Exploring new technologies
+- 🚀 Performance matters
+
+## Tech
+
+`Python` `React` `Phoenix`
+
+---
+
+_Night owl._
